@@ -846,7 +846,7 @@ pycocotools==2.0.8
     # via terratorch
 pycountry==24.6.1
     # via pydantic-extra-types
-pycparser==2.22
+pycparser==3.0
     # via cffi
 pycryptodomex==3.22.0
     # via blobfile
